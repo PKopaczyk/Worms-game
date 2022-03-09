@@ -23,3 +23,7 @@ client:
  * `-p n` – game server port (default 2021)
  * `-i gui_server` – adress (IPv4 or IPv6) or server name of server that handles user interface (default localhost)
  * `-r n` – server port of server that handles user interface (default 20210)
+
+
+https://user-images.githubusercontent.com/45102381/157502111-f5b09b27-7c1e-41a1-b7ea-701339a932d8.mp4
+
