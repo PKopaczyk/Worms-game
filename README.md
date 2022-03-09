@@ -18,8 +18,8 @@ Server:
 client:
 
     ./screen-worms-client game_server [-n player_name] [-p n] [-i gui_server] [-r n]
-game_server – adress (IPv4 or IPv6) or game server name
--n player_name – player name
--p n – game server port (default 2021)
--i gui_server – adress (IPv4 or IPv6) or server name of server that handles user interface (default localhost)
--r n – server port of server that handles user interface (default 20210)
+ * `game_server` – adress (IPv4 or IPv6) or game server name
+ * `-n player_name` – player name
+ * `-p n` – game server port (default 2021)
+ * `-i gui_server` – adress (IPv4 or IPv6) or server name of server that handles user interface (default localhost)
+ * `-r n` – server port of server that handles user interface (default 20210)
